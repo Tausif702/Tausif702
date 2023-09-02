@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tausif Ali
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php & java
+- 🌱 I’m currently learning Android with Dart( flutter )
 - 💞️ I’m looking to collaborate on programming languages
 - 📫 How to reach me brother through
 
